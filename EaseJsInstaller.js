@@ -20,6 +20,7 @@ const filesToDownload = [
     { folder: 'Backend',  name: 'DataHandler.js' },
     { folder: 'Backend',  name: 'EasyMath.js' },
     { folder: 'Backend',  name: 'DynamicHTMLGen.js' }
+    { folder: 'Middlend', name: 'CustomHTTPcodes.js' },
 ];
 
 async function install() {
