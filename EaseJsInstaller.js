@@ -65,10 +65,11 @@ async function install() {
 
     console.log(`
 ✅ Ease.js Installed Successfully!
-Next steps for the developer:
+Next steps for you:
 1. Create Describe/Router.txt
 2. Create Routes/Pages/Index.easjs
-3. Run your app with node Runtime.js
+3. Make the app itself
+4. Run your app with node Runtime.js
     `);
 }
 
