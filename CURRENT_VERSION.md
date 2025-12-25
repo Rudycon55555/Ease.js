@@ -1,4 +1,4 @@
-# Current Version: 3.0.0
+# Current Version: 3.1.0
 
 ### Features:
 - Full-Stack Logic (Frontend, Middlend, Backend)
