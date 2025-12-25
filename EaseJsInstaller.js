@@ -21,6 +21,7 @@ const filesToDownload = [
     { folder: 'Backend',  name: 'EasyMath.js' },
     { folder: 'Backend',  name: 'DynamicHTMLGen.js' }
     { folder: 'Middlend', name: 'CustomHTTPcodes.js' },
+    { folder: 'Backend', name: 'pounder.js' },
 ];
 
 async function install() {
